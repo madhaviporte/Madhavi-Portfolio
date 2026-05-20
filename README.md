@@ -1,59 +1,87 @@
-# 🌐 Animated Portfolio Website
+# 🌐 Personal Portfolio Website
 
-A sleek, responsive, and fully customizable **animated portfolio website** built using **React.js** and **Tailwind CSS**. This project gained **85K+ views** on [YouTube]([https://youtube.com/your-video-link](https://youtu.be/ypSc8HEurGQ?si=yI3GJCye3sAKoemW)) – loved by developers and students for its modern design and clean code.
+A modern and responsive personal portfolio website built using React.js and Tailwind CSS. This portfolio showcases my projects, skills, education, and experience in a clean and interactive way.
 
-## 🚀 Live Demo
-
-🔗 [View Portfolio Live](https://tarunkaushik.vercel.app/)
 
 ## 🛠️ Tech Stack
 
-- ⚛️ React.js
-- 🎨 Tailwind CSS
-- 💾 Vercel(for deployment)
+- React.js
+- Tailwind CSS
+- JavaScript
+- Vercel (Deployment)
 
-## 📁 Features
+---
 
-- Responsive design for all screen sizes 📱💻
-- Smooth scroll and animation effects ✨
-- Clean and modular React components 🧩
-- Easy to customize with Tailwind utility classes 🎯
-- Professional sections: About, Skills, Projects, Contact, etc. 👨‍💻
+## ✨ Features
 
+- Fully responsive design
+- Smooth animations and modern UI
+- Projects showcase section
+- Skills and education section
+- Contact form integration
+- Clean and user-friendly interface
 
-## 🧑‍💻 How to Use
+---
 
-### 1. Clone the Repo
+## 📁 Sections Included
+
+- Home
+- About
+- Skills
+- Education
+- Projects
+- Contact
+
+---
+
+## 🧑‍💻 Installation & Setup
+
+### 1. Clone the repository
 
 ```bash
-git clone [https://github.com/codingmastr/Tarun-s-Portfolio.git]
-cd your-repo-name
-````
+git clone https://github.com/your-username/your-repo-name.git
+```
 
-### 2. Install Dependencies
+### 2. Navigate to project folder
+
+```bash
+cd your-repo-name
+```
+
+### 3. Install dependencies
 
 ```bash
 npm install
 ```
 
-### 3. Run the App
+### 4. Run the development server
 
 ```bash
-npm start
+npm run dev
 ```
 
-### 4. Build for Production
+---
+
+## 📦 Build for Production
 
 ```bash
 npm run build
 ```
 
-## 📹 YouTube Tutorial
+---
 
-Watch the full build on YouTube:
-📺 [React Portfolio Website - 85K+ Views](https://youtu.be/ypSc8HEurGQ?si=winjJhc9qzNrCqLD)
+## 🙋‍♂️ About Me
 
-## 🌟 Credits
+I am a B.Tech Computer Science student passionate about web development and building modern user-friendly applications. This portfolio represents my learning journey, projects, and technical skills.
 
-This project was created with ❤️ by [Tarun Kaushik](https://tarunkaushik.vercel.app/).
-If you like it, feel free to ⭐ this repository and share!
+---
+
+## 📬 Contact
+
+Feel free to connect with me through my portfolio or social platforms.
+
+---
+
+## ⭐ Credits
+
+This portfolio was customized and modified by me for personal learning and showcase purposes.
