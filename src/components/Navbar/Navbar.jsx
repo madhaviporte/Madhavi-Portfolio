@@ -53,7 +53,7 @@ const Navbar = () => {
         </div>
 
         {/* Desktop Menu */}
-        <ul className="hidden md:flex space-x-8 text-gray-300">
+        <ul className="hidden md:flex md:space-x-4 lg:space-x-8 text-gray-300">
           {menuItems.map((item) => (
             <li
               key={item.id}
