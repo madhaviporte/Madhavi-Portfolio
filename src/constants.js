@@ -173,7 +173,7 @@ export const SkillsInfo = [
       img: bsaLogo,
       school: "Indian Institute of Information Technology Ranchi",
       date: "Aug 2023 - May 2027",
-      grade: "78.8%",
+      cgpa: "8.2",
       desc: "I am currently pursuing my Bachelor of Technology (B.Tech) in Computer Science and Engineering from the Indian Institute of Information Technology Ranchi. I joined in 2023 and my expected graduation year is 2027. During my college journey, I am learning core computer science subjects like Data Structures and Algorithms, Web Development, Database Management Systems, and Object-Oriented Programming. I am gradually building my understanding of how software development works in real-world scenarios. Along with academics, I also try to work on projects to apply what I learn and improve my development skills.",
       degree: "Bachelor of Technology (B.Tech) - Computer Science and Engineering",
     },
