@@ -260,7 +260,7 @@ export const SkillsInfo = [
     },
     {
       id: 5,
-      title: "Moodify",
+      title: "Moodify-Detect Mood Play Music",
       description:
         "Built a full-stack music recommendation app that uses real-time facial expression detection to suggest songs based on user mood. Integrated camera input with backend APIs to enable seamless mood detection and instant responses. Implemented secure JWT authentication with Redis token blacklisting to enhance session security. Used Redis caching to optimize performance, reducing response time and improving user experience. Designed scalable REST APIs and handled media processing to ensure smooth image handling and music playback.",
       image: webverLogo,
